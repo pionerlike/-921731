@@ -1,0 +1,5 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{}") = "untitled", "untitled\untitled.csproj", "{}"
+EndProject
